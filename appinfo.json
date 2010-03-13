@@ -1,6 +1,6 @@
 {
 	"title":    "Qt Mice",
-	"type":     "web",
+	"type":     "game",
 	"main":     "start.sh",
 	"id":       "net.griffin.qtmice",
 	"vendor":   "griffin.net",
