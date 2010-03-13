@@ -1,0 +1,9 @@
+{
+	"title":    "Qt Mice",
+	"type":     "web",
+	"main":     "start.sh",
+	"id":       "net.griffin.qtmice",
+	"vendor":   "griffin.net",
+        "version":  "4.6.2",
+        "icon":     "icon.png"
+}
